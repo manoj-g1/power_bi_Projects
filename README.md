@@ -1,8 +1,6 @@
 # Power BI Projects
 
-This repository contains Power BI reports, dashboards, and datasets for business analytics and data visualization.
-
----
+This repository contains Power BI reports, dashboards, and datasets for data analytics and data visualization.
 
  📂 Structure
 
